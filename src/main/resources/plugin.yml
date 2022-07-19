@@ -1,0 +1,7 @@
+name: MagicSpellsDisarmFix
+version: '${project.version}'
+main: com.wolfeiii.magicspellsdisarmfix.MagicSpellsDisarmFix
+api-version: 1.19
+depend: [ MagicSpells ]
+authors: [ Wolfeiii ]
+description: Plugin to fix a bug with disarm spell.
